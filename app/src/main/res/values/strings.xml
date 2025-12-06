@@ -122,6 +122,7 @@ COFDMTV 解码器生成的文本消息是唯一存储在您设备持久存储中
 \n\n极化码列表和有序统计解码：\nhttps://github.com/aicodix/code\nBSD Zero Clause 许可证
 \n\n数字信号处理：\nhttps://github.com/aicodix/dsp\nBSD Zero Clause 许可证
 \n\n精美头部字体：\nhttp://terminus-font.sourceforge.net\nSIL Open Font 许可证
+\n\n中文翻译版：https://github.com/MasterOfStar/rattlegram
 \n\n免责声明：
 \n本软件按"原样"提供，作者不对本软件作任何明示或暗示的担保，包括但不限于适销性和特定用途适用性的暗示担保。在任何情况下，作者均不对因使用本软件而引起的任何特殊、直接、间接、或后果性损害或任何损害（包括但不限于数据丢失或利润损失）承担责任，无论是在合同、疏忽或其他侵权行为中。</string>
 	<string name="base37_characters">（空格、0–9、A-Z）</string>
