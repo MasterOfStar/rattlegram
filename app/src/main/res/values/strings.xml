@@ -1,5 +1,5 @@
 <resources>
-	<string name="app_name">Rattlegram</string>
+	<string name="app_name">RattlegramCN</string>
 	<string name="decoder_settings">解码器设置</string>
 	<string name="encoder_settings">编码器设置</string>
 	<string name="delete">删除</string>
